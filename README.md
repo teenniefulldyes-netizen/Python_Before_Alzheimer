@@ -5,7 +5,7 @@ This repo for my recognization, When I want to use Library but I forgot what thi
 
 Shift + Enter = run model/ training Ai
 
-cloudflare use for share link website
+lambda it seem like function in python but It shorter than def blah blah
 
 °‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡°‧ 𓆝 𓆟 𓆞 ·｡
 
