@@ -7,6 +7,8 @@ Shift + Enter = run model/ training Ai
 
 lambda it seem like function in python but It shorter than def blah blah
 
+Object-Oriented Programming (OOP) is a programming style where code is organized around objects instead of just functions and logic.
+
 # Comparison Operators
 
 Equal ==
