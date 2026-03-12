@@ -7,6 +7,8 @@ Shift + Enter = run model/ training Ai
 
 lambda it seem like function in python but It shorter than def blah blah
 
+# Comparison Operators
+
 Equal ==
 
 Not Equal !=
@@ -18,6 +20,14 @@ Less than <
 Greater than or Equal >=
 
 Less than or Equal <=
+
+# Arithmetic Operators
+
+// division but remove decimal
+
+% return remainder
+
+** power of a number
 
 # Method 
 
