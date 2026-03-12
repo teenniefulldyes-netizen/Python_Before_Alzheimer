@@ -9,6 +9,15 @@ lambda it seem like function in python but It shorter than def blah blah
 
 Object-Oriented Programming (OOP) is a programming style where code is organized around objects instead of just functions and logic.
 
+__init__ is a special method in Python classes.
+It runs automatically when a new object is created.
+
+EX : class Person:
+
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
 # Comparison Operators
 
 Equal ==
