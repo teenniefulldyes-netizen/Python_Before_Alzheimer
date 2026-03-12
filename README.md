@@ -29,6 +29,14 @@ Less than or Equal <=
 
 ** power of a number
 
+# Logical Operators
+
+and = True if both conditions are True
+
+or = True if at least one condition is True
+
+not = reverse the result
+
 # Method 
 
  ## Case 1 - Upper Lower letter case
